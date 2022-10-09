@@ -2,6 +2,10 @@
 
 - react-native 0.70.2 버전 연구 래포
 
+- 각종 라이브러리 연구
+
+- 각 os 네이티브 코드 수정
+
 ## 라이브러리 적용
 
 - kakao-login
@@ -37,3 +41,7 @@
 - stack, tab
 
 - native-base, react-native-elements, react-native-paper
+
+- codepush
+
+- flipper
